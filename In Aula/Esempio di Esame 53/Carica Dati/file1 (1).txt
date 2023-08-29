@@ -1,0 +1,5 @@
+P_3_29.png,MILD
+P_3_415.png,MILD
+P_3_163.png,MILD
+P_3_348.png,SEVERE
+P_3_263.png,SEVERE

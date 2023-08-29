@@ -1,0 +1,3 @@
+primo paziente.jpg,SEVERE
+secondo paziente.jpg,MILD
+terzo paziente con nome lungo.jpg,SEVERE
